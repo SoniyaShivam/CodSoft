@@ -1,2 +1,2 @@
-# CodSoft-AppDev
+# CodSoft-ToDoList
 ToDo List App 
